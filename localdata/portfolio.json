@@ -1,7 +1,75 @@
 {
-    "projects":[ 
-        {"type":"coding", "title":"Joyplotting the Hottest 100", "img":"", "url":""},
-        {"type":"coding", "title":"Mapping the Islands", "img":"", "url": ""}
+    "projects": [
+        {
+            "type": "coding",
+            "title": "Culture in the Crosshairs",
+            "description": "Using point cloud data, captured on the ground by volunteers in Ukraine, to show the destruction of treasure cultural sites",
+            "img": "localdata/images/culturecrosshair.JPG",
+            "url": "https://www.abc.net.au/news/2022-08-25/the-hi-tech-3d-fight-to-save-ukrainian-culture-from-destruction/101262720"
+        },
+        {
+            "type": "coding",
+            "title": "The Tongan volcano that shocked the world",
+            "img": "localdata/images/tonga.JPG",
+            "url": "https://www.abc.net.au/news/2022-01-22/satellite-data-images-reveal-power-of-tonga-volcano-eruption/100773458"
+        },
+        {
+            "type": "coding",
+            "title": "Buddy Franklin scaled footy's Everest",
+            "description": "Using point cloud data, captured on the ground by volunteers in Ukraine, to show the destruction of treasure cultural sites",
+            "img": "localdata/images/buddy.JPG",
+            "url": "https://www.abc.net.au/news/2022-03-26/is-lance-franklin-the-greatest-of-all-time-afl-vfl/100919332"
+        },
+        {
+            "type": "coding",
+            "title": "The 'mind-blowing' sea floor changes caused by Tongan volcanic eruption",
+            "img": "localdata/images/tongaNew.JPG",
+            "url": "https://www.abc.net.au/news/2022-11-21/sea-floor-map-reveals-huge-cavity-left-behind-by-tonga-volcano/101674708"
+        },
+        {
+            "type": "coding",
+            "title": "How Sam Kerr became one of the greatest strikers in women's football",
+            "description": "Using point cloud data, captured on the ground by volunteers in Ukraine, to show the destruction of treasure cultural sites",
+            "img": "localdata/images/samkerr.JPG",
+            "url": "https://www.abc.net.au/news/2022-10-15/how-sam-kerr-became-the-greatest-striker-in-women-s-football/101523604"
+        },
+        {
+            "type": "coding",
+            "title": "How Putin unleashed the 'Syria playbook' on Ukraine",
+            "img": "localdata/images/ukraine.JPG",
+            "url": "https://www.abc.net.au/news/2022-05-26/damage-data-reveals-extent-of-vicious-russian-tactics/101070918"
+        },
+        {
+            "type": "coding",
+            "title": "The vanishing Arctic",
+            "img": "localdata/images/arctic.JPG",
+            "url": "https://www.abc.net.au/news/2020-12-16/arctic-sea-ice-dramatic-transformation-as-seen-by-satellites/12961584"
+        },
+        {
+            "type": "coding",
+            "title": "Analysing our changing musical tastes",
+            "description": "",
+            "img": "localdata/images/music.JPG",
+            "url": "https://www.abc.net.au/news/2023-02-02/what-30-years-of-data-reveals-about-our-changing-music-tastes/101909192"
+        },
+        {
+            "type": "coding",
+            "title": "A mega dam on the great bend of China",
+            "img": "localdata/images/megadam.JPG",
+            "url": "https://www.abc.net.au/news/2021-05-25/chinas-plan-to-build-mega-dam-on-yarlung-tsangpo-brahmaputra/100146344"
+        },
+        {
+            "type": "coding",
+            "title": "'Lawless' loggers",
+            "description": "",
+            "img": "localdata/images/loggers.JPG",
+            "url": "https://www.abc.net.au/news/2021-11-24/hi-res-elevation-data-pinpoints-outlaw-logging-in-forests/100626640"
+        },
+        {
+            "type": "coding",
+            "title": "Tracing the path of destruction in India's Himalayas",
+            "img": "localdata/images/landslide.JPG",
+            "url": "https://www.abc.net.au/news/2021-02-11/satellites-capture-scale-of-indian-glacier-collapse/13137924"
+        }
     ]
-    
 }
