@@ -1,7 +1,7 @@
 {
     "projects": [
         {
-            "type": "coding",
+            "type": ["3D", "data","mapping"],
             "title": "Culture in the Crosshairs",
             "description": "Using point cloud data, captured on the ground by volunteers in Ukraine, to show the destruction of treasure cultural sites",
             "img": "localdata/images/culturecrosshair.JPG",
